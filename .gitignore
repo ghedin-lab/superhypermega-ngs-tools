@@ -6,4 +6,5 @@ FILES/consensus/*
 graphing_scripts/*pdf
 graphing_scripts/*csv
 *pdf
-
+*fastq.gz
+*fasta
