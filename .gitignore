@@ -1,0 +1,9 @@
+*bam
+*bai
+*.pyc
+FILES/fullvarlist/*
+FILES/consensus/*
+graphing_scripts/*pdf
+graphing_scripts/*csv
+*pdf
+
